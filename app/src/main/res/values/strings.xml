@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fruitshopping</string>
+    <string name="title">Order your favorite fruits.</string>
+    <string name="title2">Eat fresh fruits and be healthy</string>
+    <string name="c_name">Hey, Natasha</string>
+    <string name="line1">Find fresh and sweet fruits</string>
+    <string name="shops">28+ shops</string>
+    <string name="item1">Orange-Medium</string>
+    <string name="weight">500g-700g each</string>
+    <string name="desc">The orange is a fruit of various citrus
+species in the family Rosacea. It primarily
+refers to citrus + synesis which is also
+called sweet orange. The oranges are
+hybrid between pomelo. Blood oranges
+are a natural mutation of C.</string>
+
+    <string name="time">30-45min</string>
+    <string name="price">1.99$</string>
+</resources>
